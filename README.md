@@ -1,4 +1,4 @@
-# FINS3564-ALPHA-Option1-PortfolioManager
+# FINS3645-ALPHA-Option1-PortfolioManager
 
 ALPHA aims to design an automated, data-driven portfolio management system for an asset management firm,
 utilizing a wide range of inputs including market and sentiment indicators, news, and other diverse data streams.
